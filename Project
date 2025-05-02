@@ -247,12 +247,15 @@ void key()
 
 ```
 ## Output screen shots of proteus  :
+ 
+![Screenshot 2025-04-28 093457](https://github.com/user-attachments/assets/9a261fe9-9378-4024-aa6f-a2f94ad0baf8)
 
-
+ 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-project.pdf
+[proj.pdf](https://github.com/user-attachments/files/20008980/proj.pdf)
+
 
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
